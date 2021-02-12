@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/tuck-noris/static/js/main.d2a71ac9.chunk.js",
+    "main.js.map": "/tuck-noris/static/js/main.d2a71ac9.chunk.js.map",
+    "runtime-main.js": "/tuck-noris/static/js/runtime-main.900d0084.js",
+    "runtime-main.js.map": "/tuck-noris/static/js/runtime-main.900d0084.js.map",
+    "static/js/2.07805548.chunk.js": "/tuck-noris/static/js/2.07805548.chunk.js",
+    "static/js/2.07805548.chunk.js.map": "/tuck-noris/static/js/2.07805548.chunk.js.map",
+    "static/js/3.5aa418cf.chunk.js": "/tuck-noris/static/js/3.5aa418cf.chunk.js",
+    "static/js/3.5aa418cf.chunk.js.map": "/tuck-noris/static/js/3.5aa418cf.chunk.js.map",
+    "index.html": "/tuck-noris/index.html",
+    "static/js/2.07805548.chunk.js.LICENSE.txt": "/tuck-noris/static/js/2.07805548.chunk.js.LICENSE.txt",
+    "static/media/close.ee2dd8dd.svg": "/tuck-noris/static/media/close.ee2dd8dd.svg",
+    "static/media/like.3202d8c4.svg": "/tuck-noris/static/media/like.3202d8c4.svg",
+    "static/media/logo.358c5268.svg": "/tuck-noris/static/media/logo.358c5268.svg",
+    "static/media/search.4ee2370c.svg": "/tuck-noris/static/media/search.4ee2370c.svg",
+    "static/media/settings.ea975a85.svg": "/tuck-noris/static/media/settings.ea975a85.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.900d0084.js",
+    "static/js/2.07805548.chunk.js",
+    "static/js/main.d2a71ac9.chunk.js"
+  ]
+}
