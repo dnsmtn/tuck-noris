@@ -1,7 +1,8 @@
 {
   "name": "tuck-norris",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "homepage": "http://dnsmtn.github.io/tuck-noris",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
