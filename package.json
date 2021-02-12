@@ -21,7 +21,9 @@
     "test": "react-scripts test",
     "test:dev": "react-scripts test --coverage --watchAll=true",
     "eject": "react-scripts eject",
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
