@@ -9,7 +9,7 @@ import { Settings } from 'components/settings'
 export const App = () => {
   return (
     <Container>
-      <Router>
+      <Router basename={'/tuck-noris'}>
         <Switch>
           <PublicLayout>
             <Route path='/' exact={true} component={Home} />
